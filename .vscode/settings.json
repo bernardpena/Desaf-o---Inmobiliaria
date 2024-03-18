@@ -1,0 +1,27 @@
+{
+    "spellright.language": [
+        "es",
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "javascript"
+    ],
+    "cSpell.words": [
+        "Apartamento",
+        "baños",
+        "costo",
+        "descripcion",
+        "está",
+        "exclusiva",
+        "habitaciones",
+        "lujo",
+        "residencial",
+        "ubicacion",
+        "ubicado",
+        "venta",
+        "zona"
+    ]
+}
